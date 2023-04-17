@@ -6,7 +6,7 @@ a {
     display: block;
 }
 
-#highlight {
+#highlight>div {
     background-color: brown;
 
 }
